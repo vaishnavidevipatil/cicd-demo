@@ -2,6 +2,8 @@
 CICD Demo 
 
 ![download](https://github.com/user-attachments/assets/610ea26f-8459-4b84-8ff2-6542137044ac)
+
+
 What is CICD Pipeline:
 CICD or Continuos Integration and Conitnuos Delivery and Continuos Deployment is one of popular Devops practice and is used in every project nowadays. 
 In this project CICD pipeline along with its stages, benefits and Hands on Project to set up cicd pipeline for Python application using Github Actions.
